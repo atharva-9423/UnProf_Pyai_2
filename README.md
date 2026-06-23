@@ -84,6 +84,6 @@ This project was built as part of **Day 2 of my Python & AI Internship**, coveri
 
 Made with ❤️ by **Atharva Phatangare**
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharva-phatangare)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/atharva-phatangare_python-internship-filehandling-activity-7474866824380149760-48Ij?utm_source=share&utm_medium=member_android&rcm=ACoAAF1_LpgBn63I5t6BRYOZ2YCZw18uGIgUFlg)
 
 </div>
